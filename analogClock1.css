@@ -19,13 +19,13 @@ h1 {
 	position:relative;
 	left:80px;
 	font-family:Courier;
-	color:violet;
+	color:#FF00FF;
 	font-style:bold;
 	font-size:40px;
 }
 
 canvas{
-	background-color:grey;
+	background-color:#778899;
 	position: relative;
 	left:200px;
 
