@@ -1,0 +1,25 @@
+p {
+	font-family: Garamond;
+	font-size: 40px;
+	color:orange;
+	position:relative;
+	left:100px;
+}
+
+select {
+	font-family:Times;
+	font-size:20px;
+	color:blue;
+}
+
+
+
+h1 {
+
+	position:relative;
+	left:100px;
+	font-family:Courier;
+	color:orange;
+	font-style:bold;
+	font-size:40px;
+}
